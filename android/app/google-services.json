@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113245100333",
+    "project_id": "ubixstar-59614",
+    "storage_bucket": "ubixstar-59614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113245100333:android:1257e95743d1ad2bf35ba4",
+        "android_client_info": {
+          "package_name": "com.example.ubixstar_assignment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsEbk82_-q-oYlvs0UFuLaACFZc9iAEX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
